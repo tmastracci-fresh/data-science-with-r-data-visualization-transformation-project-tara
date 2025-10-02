@@ -1,7 +1,7 @@
 ---
 title: "Project"
 author: "Tara"
-subtitle: "Investigation into Chicago taxis"
+subtitle: "Investigaition ccc o Chicago taxis"
 echo: false
 bibliography: references.bib
 ---
