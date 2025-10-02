@@ -1,12 +1,12 @@
 ---
 title: "Project"
-author: "Insert Name Here"
+author: "Tara"
 subtitle: "Investigation into Chicago taxis"
 echo: false
 bibliography: references.bib
 ---
 
-## Packages 
+## Packages
 
 ```{r}
 #| warning: false
@@ -18,10 +18,6 @@ library(scales)
 
 ## Question 1
 
+## Question 2
 
-## Question 2 
-
-
-## Your own question 
-
-
+## Your own question
